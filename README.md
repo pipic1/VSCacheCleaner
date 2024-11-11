@@ -1,6 +1,6 @@
 
 
-# VSCacheCleaner
+# VSCacheCleaner - Visual Studio Cache Cleaner Powershell Script
 
 ## Overview
 `VSCacheCleaner` is a PowerShell script designed to clean Visual Studio cache directories and perform a repair operation using `vswhere.exe` and `setup.exe`. This script helps maintain a clean development environment and ensures Visual Studio runs smoothly.
